@@ -1,0 +1,87 @@
+f11.
+
+*1)dots:
+Pirmais fails:
+1 1.txt
+2 a
+3 b
+4 c
+
+otrais fails:
+2.txt
+d
+e
+f
+
+aiz kuras pirma faila rindas ielikt 2.failu?
+
+1
+
+rezultats:
+izveido 3.txt ar saturu:
+
+1.txt
+2.txt
+d
+e
+f
+--------------------------------
+*2)dots:
+Pirmais fails:
+1 1.txt
+2 a
+3 b
+4 c
+
+otrais fails:
+2.txt
+d
+e
+f
+
+aiz kuras pirma faila rindas ielikt 2.failu?
+
+5
+
+rezultats: pazino ka ievadits nepareizs skaitlis.
+
+4
+
+rezultats:
+
+1.txt
+a
+b
+c
+2.txt
+d
+e
+f
+
+*3)dots:
+Pirmais fails:
+1.txt
+2 adsada
+3 adadad
+4 adadadc
+
+otrais fails:
+2.txt
+d
+e
+f
+
+aiz kuras pirma faila rindas ielikt 2.failu?
+
+3
+
+rezultats:
+izveido 3.txt ar saturu:
+
+1.txt
+adsada
+adadad
+2.txt
+d
+e
+f

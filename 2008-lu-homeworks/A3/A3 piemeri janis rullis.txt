@@ -1,0 +1,20 @@
+1)
+
+n=15
+m=20
+
+MKD=60
+
+
+2)
+
+n=4
+n=5
+
+MKD=20
+
+3)
+
+n=-40
+m=1
+Ludz ievadit naturalu sk tik ilgi lidz ievada prasito

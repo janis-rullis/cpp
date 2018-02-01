@@ -1,0 +1,49 @@
+1)
+
+ievadiet veselus skaitlus. lai beigtu ievadi, ievadiet - 0
+
+1,2,3,0
+izvele - 2
+izdruka - 123
+izvele - 3
+pievieno
+4,0
+izvele - 2
+izdruka - 1234
+izvele - 4
+izveido kopiju
+1234
+izvele - 6
+"izdzests saraksts
+izdzesta saraksta kopija"
+
+2)
+
+
+ievadiet veselus skaitlus. lai beigtu ievadi, ievadiet - 0
+
+0
+
+izvele - 2
+izdruka - tukss
+izvele - 3
+pievieno - tukss
+izvele - 4
+izveido kopiju - tukss
+izvele - 6
+nevar izdzest sarakstu, jo saraksts nav izveidots
+
+3)
+
+2,5,66,0
+
+izvele - 4
+izveido kopiju
+2566
+izvele - 3
+pievieno - 7
+izvele - 2
+izdruka - 25667
+izvele - 4
+papildina kopiju. papildinatie simboli - 7,
+25667
